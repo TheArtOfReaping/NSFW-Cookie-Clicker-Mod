@@ -1,33 +1,16 @@
-## Welcome To The Art Of Reaping Main Page
+## Welcome To The Art Of Reaping Developer Blog
 
-### Markdown
+### Blog Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[The Cookie Clicker Mod Development Blog](https://theartofreaping.github.io/NSFW-Cookie-Clicker-Mod-Developer-Version/CCMDB/)
 
-```markdown
-Syntax highlighted code block
+[Site Changes](https://theartofreaping.github.io/NSFW-Cookie-Clicker-Mod-Developer-Version/SiteChanges/)
 
-# Header 1
-## Header 2
-### Header 3
+[Upcoming Chnages and Game Ideas](https://theartofreaping.github.io/NSFW-Cookie-Clicker-Mod-Developer-Version/upcomingchangesandgames/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Bug Fixes](https://theartofreaping.github.io/NSFW-Cookie-Clicker-Mod-Developer-Version/BugFixes/)
+```
+This will send you to a secound page for the Cookie Clicker Mod, Dev Blog and Upcoming Games/Mods.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheArtOfReaping/NSFW-Cookie-Clicker-Mod-Developer-Version/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Site Developer Debug](https://theartofreaping.github.io/NSFW-Cookie-Clicker-Mod-Developer-Version/SiteDebug)
