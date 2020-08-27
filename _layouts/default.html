@@ -15,7 +15,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '748563174239895723', // The Art Of Reaping Games
+    channel: '748573211003977838' // #main-chat
+  })
+</script>
   </head>
   <body>
       <div id="header">
@@ -25,12 +30,6 @@
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
             <li class="title">DOWNLOADS</li>
-          <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-  new Crate({
-    server: '748563174239895723', // The Art Of Reaping Games
-    channel: '748573211003977838' // #main-chat
-  })
-</script>
           {% endif %}
         </nav>
       </div><!-- end header -->
